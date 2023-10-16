@@ -23,8 +23,8 @@ Foi feito o cadastro e visualizado os clientes,usei a API do ChatGPT (OpenAI) pa
      https://sdw-2023-prd.up.railway.app/users/{id}.
 
 📊
-[Pode visualizar o cadastro no link](https://sdw-2023-prd.up.railway.app/users/5166)
-[Pode visualizar o cadastro no link](https://sdw-2023-prd.up.railway.app/users/5167)
-[Pode visualizar o cadastro no link](https://sdw-2023-prd.up.railway.app/users/5168)
+- [(https://sdw-2023-prd.up.railway.app/users/5166}](https://sdw-2023-prd.up.railway.app/users/5166})
+- [(https://sdw-2023-prd.up.railway.app/users/5167)](https://sdw-2023-prd.up.railway.app/users/5167)
+- [(https://sdw-2023-prd.up.railway.app/users/5168)](https://sdw-2023-prd.up.railway.app/users/5168)
 
 
