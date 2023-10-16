@@ -19,8 +19,7 @@ Me foi dado o endpoint GET:
 (API da Santander Dev Week 2023) para obter os dados de cada cliente. O professor sugeriu que poderíamos fazer os cadastros dos clientes que usaríamos fiz 3. 
 Foi feito o cadastro e visualizado os clientes,usei a API do ChatGPT (OpenAI) para gerar uma mensagem de marketing personalizada para cada cliente. Executei duas mensagens, a última queria que fosse algo divertido.
      A mensagem para cada cliente ficou pronta, você vai enviar essas informações de volta para a API, atualizando a lista de "news" de cada usuário usando o endpoint PUT 
-     
-     https://sdw-2023-prd.up.railway.app/users/{id}.
+[https://sdw-2023-prd.up.railway.app/users/{id}](https://sdw-2023-prd.up.railway.app/users/{id}).
 
 📊
 - [(https://sdw-2023-prd.up.railway.app/users/5166}](https://sdw-2023-prd.up.railway.app/users/5166})
